@@ -1,3 +1,11 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: PROGARAMACION
+  Date: 24/04/2024
+  Time: 19:18
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!doctype html> <!-- dectupe indica al navegador el tipo de documento de mostrar -->
 <html lang="es"> <!-- lang indica el lenguaje que se utiliza en la pagina -->
 <head> <!-- Encabezado del docuemento, la mayoria de los metos no se muestras -->

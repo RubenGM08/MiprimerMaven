@@ -6,6 +6,13 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!doctype html> <!-- dectupe indica al navegador el tipo de documento de mostrar -->
+<html lang="es"> <!-- lang indica el lenguaje que se utiliza en la pagina -->
+<head> <!-- Encabezado del docuemento, la mayoria de los metos no se muestras -->
+    <meta charset="UTF-8"> <!-- charset es el tipo de caracteres aceptados -->
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="author" content="Rubén Garcia">
 <meta name="keyworks" content="html.">
