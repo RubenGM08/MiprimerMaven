@@ -19,8 +19,9 @@
 </head>
 <body>
 <div>
-    <button><a href="index.jsp">🏠</a></button>
-    <button><a href="ListasYTablas.jsp">➡</a></button>
+    <a href="index.jsp">🏠</a>
+    <a href="ListasYTablas.jsp">➡</a>
+    <a href="formularios.jsp">📋</a>
 </div>
 <!-- Encabezado -->
 <!-- h1 -> h6 -->

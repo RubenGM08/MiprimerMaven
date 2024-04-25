@@ -20,8 +20,9 @@
 </head>
 <body>
 <div>
-    <button><a href="index.jsp">🏠</a></button>
-    <button><a href="ListasYTablas.jsp">➡</a></button>
+    <a href="index.jsp">🏠</a>
+    <a href="ListasYTablas.jsp">➡</a>
+    <a href="fomularios.jsp">📋</a>
 </div>
 <h1>Lists y Tablas</h1>
 <ol>
